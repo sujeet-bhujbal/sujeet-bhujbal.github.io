@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <title>Sujeet Bhujbal</title>
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
     <div class="grid-2">
@@ -25,12 +24,13 @@ I like to learn new concept related with WCF and WPF and share the knowledge. I 
 
 If there is one thing I would say I do well at, it’s Learning.
 I am constantly doing online research of some kind or another, and love the information found on other people’s blogs, so thought I’d start my own.
-No idea if I will keep with it, or if I will keep it updated, but I hope to post some useful information that I personally have had a hard time figuring out when I started out.. </p>
+No idea if I will keep with it, or if I will keep it updated, but I hope to post some useful information that I personally have had a hard time figuring out when I started out..
+</p>
             <h2>Skills</h2>
-            <p>Sujit Bhujbal is Senior Software Engineer having over 10 + years of Experience in ANGULAR 4 ,6 ,8 and Angular Js Asp.net MVC Core WPF,WCF Asp.net 3.5 and has worked on various platforms. He worked during various phases of SDLC such as Requirements and Analysis, Design and Construction, development, maintenance, Testing, UAT..</p>
-           
-            <h2>Contact</h2>
-            <p>sujit@email.com</p>
+            <p>Sujit Bhujbal is Senior Software Engineer having over 10 + years of Experience in ANGULAR 4 ,6 ,8 and Angular Js Asp.net MVC Core WPF,WCF Asp.net 3.5 and has worked on various platforms. He worked during various phases of SDLC such as Requirements and Analysis, Design and Construction, development, maintenance, Testing, UAT
+</p>
+           <h2>Contact</h2> 
+            <p>sujit9923@gmail.com</p>
         </div>
     </div>
 </body>
